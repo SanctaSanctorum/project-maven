@@ -8,7 +8,7 @@ import java.util.Arrays;
 public class ProgressBar {
     private GameObject progressBar;
     private GameObject progressBarField;
-    private int maxValue;
+    private int maxValue;// .jar .war
 
     public ProgressBar(int maxValue) {
         this.maxValue = maxValue;
